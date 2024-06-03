@@ -2,20 +2,6 @@ Dice Game
 
 A simple web-based dice game where two players can roll dice and see who gets the higher number.
 
-## Structure
-
-Dice Game/
-├── images/
-│   ├── dice1.png
-│   ├── dice2.png
-│   ├── dice3.png
-│   ├── dice4.png
-│   ├── dice5.png
-│   └── dice6.png
-├── index.html
-├── styles.css
-└── index.js
-
 ## Usage
 
 Open the index.html file in your web browser.
