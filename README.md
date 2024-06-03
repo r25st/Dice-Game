@@ -14,7 +14,6 @@ index.js: The JavaScript file containing the game logic.
 images/: A directory containing dice images used in the game.
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-- [License](#license)
 
 ## Description
 
