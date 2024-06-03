@@ -1,4 +1,4 @@
-Dice Game
+# Dice Game
 
 A simple web-based dice game where two players can roll dice and see who gets the higher number.
 
